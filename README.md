@@ -1,6 +1,7 @@
 Somos Jaqueline e Sarah e somos alunas do 1 ano B,
-e estamos criando um site para pensamento computacional
-no colegio estadual Leonilda Papen.
+e estamos criando um site para 
+Pensamento Computacional
+no colégio estadual Leonilda Papen.
 
 
 
