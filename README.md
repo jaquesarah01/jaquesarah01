@@ -1,4 +1,11 @@
-### Hi there 👋
+Somos Jaqueline e Sarah e somos alunas do 1 ano B,
+e estamos criando um site para pensamento computacional
+no colegio estadual Leonilda Papen.
+
+
+
+
+
 
 <!--
 **jaquesarah01/jaquesarah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
